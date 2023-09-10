@@ -4,6 +4,8 @@ Design and build an interactive dashboard using PowerBI
 PROJECT OBJECTIVES
 
 
+DATA MODEL: STAR SCHEMA
+
 
 REQUIREMENTS
 
