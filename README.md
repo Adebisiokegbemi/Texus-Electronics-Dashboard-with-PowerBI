@@ -7,6 +7,10 @@ PROJECT OBJECTIVES
 DATA MODEL: STAR SCHEMA
 
 
+<img width="492" alt="image" src="https://github.com/Adebisiokegbemi/Texus-Electronics-Dashboard-with-PowerBI/assets/91023196/53ca7015-ca93-4c26-a57f-b7429f6ec657">
+
+
+
 REQUIREMENTS
 
 
